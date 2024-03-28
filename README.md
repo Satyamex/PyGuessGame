@@ -1,2 +1,2 @@
 # PyGuessGame
-Source code a Number guessing game made in python
+Source code of a Number guessing game made in python
